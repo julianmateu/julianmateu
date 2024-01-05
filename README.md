@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 I'm a passionate Senior Software Engineer with expertise in Backend technologies. My journey involves crafting efficient solutions, continuous learning, and exploring the intersection of technology and music.
 
-Checkout my other profile [@julian-mateu](https://github.com/julian-mateu/raspi-cluster)
+Checkout my other profile [@julian-mateu](https://github.com/julian-mateu)
 
 ## Professional Work 👨‍💻
 
